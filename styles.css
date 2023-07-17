@@ -1,0 +1,67 @@
+.banner-img{
+    background-image:url(images/banner/banner1.png);
+    height: 750px;
+    width: 1335px;
+    background-repeat: no-repeat;
+    position: center;
+}
+.banner{
+    color: #151414;
+    text-align: right;
+    padding: 200px 200px 0px 0px;
+    
+}
+#banner-heading{
+    font-size: 50px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.button{
+    border-radius: 5px;
+    background: #F15B22;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+.section{
+    display: flex;
+}
+
+.history{
+    padding: 250px 0px 0px 100px;
+}
+
+.imeges{
+    padding: 0px 0px 0px 150px;
+}
+.experiance{
+    display: flex;
+    gap: 230px;
+    padding: 30px 0px 0px 100px;
+}
+
+#plane{
+    text-align: center;
+}
+.watch{
+    text-align: center;
+    padding: 80px 0px 80px 0px;
+}
+
+.footer-end{
+    display: flex;
+    background-color: #151414;
+    color: white;
+}
+
+.place{
+    margin-bottom: 20px;
+}
+.social-link{
+    padding: 0px 0px 0px 100px;
+}
+.subscribe{
+    padding: 0px 0px 0px 580px;
+}
+
